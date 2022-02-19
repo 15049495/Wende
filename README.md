@@ -1,8 +1,8 @@
          Cliente 
 
 
-   Proposta   contratação  
+   Proposta     contratação   conexão 
 
 
 
-    Provedor    Servidor
+    Provedor         Servidor
