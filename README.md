@@ -1,2 +1,8 @@
-# Wende
-Projeto de tecnologia 
+         Cliente 
+
+
+   Proposta   contratação  
+
+
+
+    Provedor    Servidor
