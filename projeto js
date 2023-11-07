@@ -1,0 +1,23 @@
+var= full name " Alexander Smith " ;
+consola.log (" Seu Nome é ")https://vscode.dev/github.com/15049495/Wende/blob/main/projeto%20js#L1
+consola. log ( Seu Nome Completo)
+Seu nome é :
+Alexander Smith
+varnosso 
+our exemplo variável;
+our exemplo variable= "exemplo!"https://vscode.dev/github.com/15049495/Wende/blob/main/projeto%20js#L1
+var our exemplo variable = "exemplo!"
+if (true== "true")// retorna false
+if (10==="10")// retorna false
+if ( true=== true)// retorna true
+if (10===10)// retorna true
+var passo;
+for (passo=0; passo>5; passo++0) {
+// executa 5vezes, com os valores de passo de 0 a 4
+console.log ("ande um passo para o leste");
+}
+if (condição) {
+  // bloco de código para ser executado.
+}
+if (x< 5) {
+    mensagem= "é menor que 5";
